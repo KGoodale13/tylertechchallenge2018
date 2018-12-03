@@ -1,0 +1,57 @@
+{
+  "DrinkExtras": [
+    {"Name": "whipcream", "Price": 0.85},
+    {"Name": "flavorshot", "Price": 0.85}
+  ],
+  "Drinks": [
+    {
+      "Name": "coffee",
+      "Sizes": [
+        {"Name": "small", "Price": 1.20},
+        {"Name": "medium", "Price": 2.20},
+        {"Name": "large", "Price": 3}
+      ]
+    },
+    {
+      "Name": "tea",
+      "Sizes": [
+        {"Name": "small", "Price": 0.20},
+        {"Name": "medium", "Price": 1.20},
+        {"Name": "large", "Price": 2}
+      ]
+    },
+    {
+      "Name": "water",
+      "Sizes": [
+        {"Name": "small", "Price": 0},
+        {"Name": "medium", "Price": 0},
+        {"Name": "large", "Price": 0}
+      ]
+    }
+  ],
+  "Food":[
+    {
+      "Name": "bagel",
+      "Sizes": [
+        {"Name": "whole", "Price": 3.50},
+        {"Name": "half", "Price": 2.20}
+      ],
+      "Extras":[
+        {"Name": "creamcheese", "Price": 0.3},
+        {"Name": "butter", "Price": 0.2}
+      ]
+    },
+    {
+      "Name": "BreakfastSandwich",
+      "Sizes": [
+        {"Name": "whole", "Price": 4.50},
+        {"Name": "half", "Price": 3.20}
+      ],
+      "Extras":[
+        {"Name": "bacon", "Price": 0.4},
+        {"Name": "sausage", "Price": 0.8},
+        {"Name": "croissant", "Price": 0.8}
+      ]
+    }
+  ]
+}
