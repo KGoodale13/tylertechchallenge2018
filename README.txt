@@ -2,9 +2,7 @@ Tyler Tech Software Development Challenge 2018
 
 [Author]
     Name: Kyle Goodale
-    Email: kyle.goodale@maine.edu
     Web: kylegoodale.com
-    Phone: (207) 251-5429
 
 [Building]
     Note:   This project requires Java 9 or later.
